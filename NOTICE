@@ -1,0 +1,26 @@
+=========================================================================
+==      NOTICE file for use with the Apache License, Version 2.0       ==
+=========================================================================
+
+Resource: wsf-archive-assembly codebase, version 1.0
+
+This product (software) was developed at:
+  Colorado School of Mines, Golden CO (USA).
+
+Sponsorship:
+  This work was supported by a grant to the Colorado School of Mines through the NOAA
+  Cooperative Institute for Research to Operations in Hydrology (CIROH), funded under
+  NOAA Cooperative Agreement NA22NWS4320003 with the University of Alabama, and by
+  U.S. Army Corps of Engineers award W26HM432051757 to the NSF National Center for
+  Atmospheric Research (NCAR).
+
+If you use this code — or any part or derivative of it — in
+academic, technical, or commercial work, please cite:
+
+  Sturtevant, J. T., Wood, A. W., Frans, C. D., Ferguson, I. M., and Pagano, T. C.:
+  A Community Evaluation Protocol for Seasonal Water Supply Forecasting in the
+  Western U.S., Water Resources Research, submitted, 2026.
+
+Per Apache License version 2.0, this NOTICE file must be
+preserved verbatim in any copy or modified version that you
+convey or deploy, together with the license.

@@ -29,9 +29,13 @@ The raw CBRFC/CNRFC hindcasts were provided by the agencies and are not
 redistributed; the archive holds the derived seasonal-volume quantiles. The
 CA DWR Bulletin 120 history is in the archive's `source_data/cadwr_b120/`.
 
+## Funding
+
+This work was supported by a grant to the Colorado School of Mines through the NOAA Cooperative Institute for Research to Operations in Hydrology (CIROH), funded under NOAA Cooperative Agreement NA22NWS4320003 with the University of Alabama, and by U.S. Army Corps of Engineers award W26HM432051757 to the NSF National Center for Atmospheric Research (NCAR).
+
 ## License
 
-Code: GPL-3.0 (`LICENSE`). The archive is licensed separately (see its deposit).
+Code: Apache-2.0 (`LICENSE`). Keep `NOTICE` with any copy or derivative. The archive is licensed separately (see its deposit).
 
 Preprint:
 
