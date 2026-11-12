@@ -1,0 +1,22 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# This repo hosts pipeline CODE plus small (<10MB) external inputs under
+# metadata/raw_external/ -- never the benchmark archive itself (deposited
+# separately after publication, see ARCHIVE_BUILD.md). Guard
+# against ever accidentally committing a local archive checkout or the raw
+# ESP tarballs (each ~1.3GB) into this repo.
+wsf_archive_v1.0/
+wsf_archive_v*/
+DS_espensemble.*.tgz
+*.nc
+
+# Raw USBR/Rodeo competition obs inputs and proc_obs.py's own output -- these
+# duplicate the archive's own source_data/obs/ (and cross_validation_labels.csv/
+# prior_historical_labels.csv duplicate HydrometBench's public mirror). Needed
+# locally to run proc_obs.py, but not committed here.
+get_data/obs/cross_validation_labels.csv
+get_data/obs/prior_historical_labels.csv
+get_data/obs/all_seasonal_naturalized_flow.csv
+
+__pycache__/
