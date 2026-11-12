@@ -48,7 +48,8 @@ Preprint:
 
 * **WSF Protocol Repository**: https://github.com/mines-ciroh/HydrometBench/tree/main/water_supply_fcst
 * **Paper Reproducibility Repository**: https://github.com/mines-ciroh/wsf-protocol-paper
-* **Benchmark Archive DOI**: TBD
+* **This repository (v1.0.0) DOI**: https://doi.org/10.5281/zenodo.24179552
+* **Benchmark Archive DOI**: https://doi.org/10.5281/zenodo.24179554
 
 ## Repository Purpose
 
